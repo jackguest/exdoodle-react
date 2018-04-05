@@ -1,0 +1,296 @@
+[
+  {
+    "": "",
+    "LastSale": "7",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7489"
+    },
+    "industry": "Property-Casualty Insurers",
+    "Symbol": "PIH",
+    "Name": "1347 Property Insurance Holdings, Inc.",
+    "Sector": "Finance",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pih",
+    "IPOyear": "2014",
+    "MarketCap": "$41.89M"
+  },
+  {
+    "": "",
+    "LastSale": "1.73",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748a"
+    },
+    "industry": "Finance/Investors Services",
+    "Symbol": "TURN",
+    "Name": "180 Degree Capital Corp.",
+    "Sector": "Finance",
+    "Summary Quote": "https://www.nasdaq.com/symbol/turn",
+    "IPOyear": "n/a",
+    "MarketCap": "$53.84M"
+  },
+  {
+    "": "",
+    "Symbol": "PIE",
+    "MarketCap": "$257.51M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "20.0396",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd0"
+    },
+    "Name": "PowerShares DWA Emerging Markets Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pie",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PXI",
+    "MarketCap": "$85.85M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "35.77",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd1"
+    },
+    "Name": "PowerShares DWA Energy Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pxi",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PFI",
+    "MarketCap": "$69.24M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "34.6189",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd2"
+    },
+    "Name": "PowerShares DWA Financial Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pfi",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PTH",
+    "MarketCap": "$146.04M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "73.02",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd3"
+    },
+    "Name": "PowerShares DWA Healthcare Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pth",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PRN",
+    "MarketCap": "$115.94M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "59.4581",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd4"
+    },
+    "Name": "PowerShares DWA Industrials Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/prn",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "DWLV",
+    "MarketCap": "$7.61M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "30.45",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd5"
+    },
+    "Name": "PowerShares DWA Momentum & Low Volatility Rotation Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/dwlv",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PDP",
+    "MarketCap": "$1.52B",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "51.02",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd6"
+    },
+    "Name": "PowerShares DWA Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pdp",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "DWAQ",
+    "MarketCap": "$45.45M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "101.01",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd7"
+    },
+    "Name": "PowerShares DWA NASDAQ Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/dwaq",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "DWAS",
+    "MarketCap": "$238.1M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "47.62",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd8"
+    },
+    "Name": "PowerShares DWA SmallCap Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/dwas",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "DWIN",
+    "MarketCap": "$97.24M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "25.59",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dd9"
+    },
+    "Name": "PowerShares DWA Tactical Multi-Asset Income Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/dwin",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "DWTR",
+    "MarketCap": "$62.46M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "27.76",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7dda"
+    },
+    "Name": "PowerShares DWA Tactical Sector Rotation Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/dwtr",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PTF",
+    "MarketCap": "$114.4M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "53.21",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7ddb"
+    },
+    "Name": "PowerShares DWA Technology Momenum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/ptf",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "Symbol": "PUI",
+    "MarketCap": "$42.55M",
+    "industry": "n/a",
+    "IPOyear": "n/a",
+    "LastSale": "25.03",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7ddc"
+    },
+    "Name": "PowerShares DWA Utilities Momentum Portfolio",
+    "Summary Quote": "https://www.nasdaq.com/symbol/pui",
+    "Sector": "n/a"
+  },
+  {
+    "": "",
+    "LastSale": "10.8",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748b"
+    },
+    "industry": "Other Specialty Stores",
+    "Symbol": "FLWS",
+    "Name": "1-800 FLOWERS.COM, Inc.",
+    "Sector": "Consumer Services",
+    "Summary Quote": "https://www.nasdaq.com/symbol/flws",
+    "IPOyear": "1999",
+    "MarketCap": "$697.94M"
+  },
+  {
+    "": "",
+    "LastSale": "19.2",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748c"
+    },
+    "industry": "Savings Institutions",
+    "Symbol": "FCCY",
+    "Name": "1st Constitution Bancorp (NJ)",
+    "Sector": "Finance",
+    "Summary Quote": "https://www.nasdaq.com/symbol/fccy",
+    "IPOyear": "n/a",
+    "MarketCap": "$155M"
+  },
+  {
+    "": "",
+    "LastSale": "49.57",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748d"
+    },
+    "industry": "Major Banks",
+    "Symbol": "SRCE",
+    "Name": "1st Source Corporation",
+    "Sector": "Finance",
+    "Summary Quote": "https://www.nasdaq.com/symbol/srce",
+    "IPOyear": "n/a",
+    "MarketCap": "$1.29B"
+  },
+  {
+    "": "",
+    "LastSale": "7.53",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748e"
+    },
+    "industry": "Computer Software: Programming, Data Processing",
+    "Symbol": "VNET",
+    "Name": "21Vianet Group, Inc.",
+    "Sector": "Technology",
+    "Summary Quote": "https://www.nasdaq.com/symbol/vnet",
+    "IPOyear": "2011",
+    "MarketCap": "$840.72M"
+  },
+  {
+    "": "",
+    "LastSale": "69.14",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f748f"
+    },
+    "industry": "Computer Software: Prepackaged Software",
+    "Symbol": "TWOU",
+    "Name": "2U, Inc.",
+    "Sector": "Technology",
+    "Summary Quote": "https://www.nasdaq.com/symbol/twou",
+    "IPOyear": "2014",
+    "MarketCap": "$3.61B"
+  },
+  {
+    "": "",
+    "LastSale": "66.28",
+    "_id": {
+      "$oid": "5a8bb2eaee180f37571f7490"
+    },
+    "industry": "Diversified Commercial Services",
+    "Symbol": "JOBS",
+    "Name": "51job, Inc.",
+    "Sector": "Technology",
+    "Summary Quote": "https://www.nasdaq.com/symbol/jobs",
+    "IPOyear": "2004",
+    "MarketCap": "$4.09B"
+  }
+]
