@@ -24,3 +24,7 @@ Please Standby for updates.
 
 ## Unfiltered Stocks List
 ![unfilteredstocklist](https://user-images.githubusercontent.com/10500450/38441216-fc6dcae6-39b1-11e8-8bfb-6b3d928b901c.png)
+
+## Filtered
+By: industry = software, Name = <contains 'b'>, sort = 'asc'
+![filteredlist](https://user-images.githubusercontent.com/10500450/38441588-40c53124-39b3-11e8-9e6f-e4c17022f3aa.png)
