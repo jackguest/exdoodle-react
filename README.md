@@ -16,3 +16,8 @@ This project is in a very raw initial form.  The server acts as an intermediary 
 Currently alphavantage.co for Stock Exchange data and the NY Times 'archive_api' for news headlines.
 
 Please Standby for updates.
+
+# Screenshot Intros
+
+## Landing Page
+![landing](https://user-images.githubusercontent.com/10500450/38440856-c325e968-39b0-11e8-8a8a-025cba2b1aac.png)
