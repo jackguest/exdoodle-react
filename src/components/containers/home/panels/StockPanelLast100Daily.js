@@ -4,12 +4,11 @@ import { withStyles } from 'material-ui/styles';
 import {connect} from 'react-redux';
 import {bindActionCreators} from 'redux';
 import * as actions from '../../../../actions-creators/stockConfigActions';
-//import getStockData from '../selectors/getStockData'
 import styles from "../styles";
 import getStocksBySymbolAndFunction from "../selectors/getStocksBySymbolAndFunction";
 import Last100DaysD3 from '../../../../visuals/selected-stock-details/last-100-days/Last100DaysD3';
 import { CircularProgress } from 'material-ui/Progress';
-import { Typography } from 'material-ui/Typography';
+import Typography from 'material-ui/Typography';
 
 class StockPanelLast100Daily extends React.Component {
 
