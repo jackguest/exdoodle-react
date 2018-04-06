@@ -28,3 +28,7 @@ Please Standby for updates.
 ## Filtered
 By: industry = software, Name = <contains 'b'>, sort = 'asc'
 ![filteredlist](https://user-images.githubusercontent.com/10500450/38441588-40c53124-39b3-11e8-9e6f-e4c17022f3aa.png)
+
+## Selected some stocks.
+Minimized View
+![selectedmin](https://user-images.githubusercontent.com/10500450/38441896-4465f5d8-39b4-11e8-87ee-d2b4fb23889a.png)
