@@ -38,7 +38,7 @@ Monthly adjusted values for all available periods per stock.
 ![selectedexpandedmonthlyadj](https://user-images.githubusercontent.com/10500450/38443466-c2e01cd6-39b9-11e8-9fb0-b385243fda54.png)
 
 ## Doodle "100 Days with News"
-Selected Sabre Stock.  Mouse rollover on chart at 2018-01-10 shows NY Times Archive API filtered server side by 
+Selected Sabre Stock.  Mouse rollover on chart at 2018-01-10 shows NY Times Archive API filtered server side by
 { 'economy', 'finance', 'stock', 'market', 'crisis', 'terror', 'job', 'shareholder', 'elect' }
 News is reset for each increment available on chart by date.
 ![100daysnews](https://user-images.githubusercontent.com/10500450/38443979-9fdf01a0-39bb-11e8-8763-65062c945c50.png)
