@@ -32,3 +32,7 @@ By: industry = software, Name = <contains 'b'>, sort = 'asc'
 ## Selected some stocks.
 Minimized View
 ![selectedmin](https://user-images.githubusercontent.com/10500450/38441896-4465f5d8-39b4-11e8-87ee-d2b4fb23889a.png)
+
+## Expanded Select Preview
+Monthly adjusted values for all available periods per stock.
+![selectedexpandedmonthlyadj](https://user-images.githubusercontent.com/10500450/38443466-c2e01cd6-39b9-11e8-9fb0-b385243fda54.png)
