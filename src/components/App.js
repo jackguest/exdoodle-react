@@ -7,7 +7,6 @@ import AboutPage from './AboutPage';
 import StockConfigurationPage from './containers/stock-config/StockConfigurationPage';
 import NotFoundPage from './NotFoundPage';
 import ButtonAppBar from './ButtonAppBar'
-import 'typeface-roboto'
 import AppBar from 'material-ui/AppBar'
 import {withStyles} from "material-ui/styles/index";
 import Button from 'material-ui/Button'
