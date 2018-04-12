@@ -5,7 +5,7 @@ import '../styles/about-page.css';
 const AboutPage = () => {
   return (
     <div>
-      <h2 className="alt-header">About</h2>
+      <h2 className="alt-header" style={{margin: '20px'}}>About</h2>
     </div>
   );
 };

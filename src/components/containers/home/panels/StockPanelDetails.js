@@ -7,15 +7,11 @@ import * as actions from '../../../../actions-creators/stockConfigActions';
 import Typography from 'material-ui/Typography';
 import ExpandMoreIcon from 'material-ui-icons/ExpandMore'
 import ExpandLessIcon from 'material-ui-icons/ExpandLess'
-// import Tooltip from 'material-ui/Tooltip';
 import styles from "../styles";
 import Grid from 'material-ui/Grid'
-// import Avatar from 'material-ui/Avatar';
-// import { CircularProgress } from 'material-ui/Progress';
 import getStockMetaData from '../selectors/getStockMetaData';
 import getStocksBySymbolAndFunction from '../selectors/getStocksBySymbolAndFunction';
 import AppBar from 'material-ui/AppBar'
-//import * as dataParsers from '../../../../utils/dataParsers';
 import MonthlyAdjustedD3 from '../../../../visuals/selected-stock-details/monthly-adjusted/MonthlyAdjustedD3';
 import StockPanelLast100Daily from './StockPanelLast100Daily'
 
@@ -65,7 +61,7 @@ class StockPanelDetails extends React.Component {
     return (
       <div className={classes.root}>
         {data &&
-          !data['loading'] &&
+         !data['loading'] &&
           <div>
             <AppBar position="static" color="primary" className={classes.selectedStockAppBar}>
               <Typography className={classes.selectedStockAppBarTypoText}  color='inherit'>Overview: {name}</Typography>
@@ -173,7 +169,7 @@ StockPanelDetails.propTypes = {
   symbol: PropTypes.string,
   stockMetaData: PropTypes.object.isRequired,
   actions: PropTypes.object.isRequired,
-  stock: PropTypes.array.isRequired,
+  stock: PropTypes.array,
   name: PropTypes.string,
   sector: PropTypes.string,
   industry: PropTypes.string,
