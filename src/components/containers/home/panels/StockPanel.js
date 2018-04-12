@@ -34,7 +34,7 @@ class StockPanel extends React.Component {
   render() {
     const { classes, symbol, symbols, stockMetaData,
       expandSelected, name, sector, industry } = this.props;
-    const { loading, dataPointCount } = stockMetaData[symbol];
+    const { loading, dataPointCount } = stockMetaData[symbol] || {};
 
     return (
       <div className={classes.selectedStockListContainer}>
@@ -64,6 +64,7 @@ class StockPanel extends React.Component {
               </Grid>
               <Grid item>
                 {!loading &&
+                stockMetaData[symbol] &&
                 stockMetaData[symbol]['meanDividends'] > 0 &&
                 <Tooltip title='Stock paid dividends in time period' placement='top-start'>
                   <Avatar className={classes.greenAvatar}>D</Avatar>
@@ -77,8 +78,9 @@ class StockPanel extends React.Component {
               </Tooltip>
             </div>
           </ExpansionPanelSummary>
-          <ExpansionPanelDetails style={{padding: '0px'}}>
-            {!loading &&
+          {!loading &&
+           stockMetaData[symbol] &&
+            <ExpansionPanelDetails style={{padding: '0px'}}>
               <StockPanelDetails style={{padding: '0px'}}
                                  symbol={symbol}
                                  func='monthlyAdjusted'
@@ -87,8 +89,8 @@ class StockPanel extends React.Component {
                                  sector={sector}
                                  industry={industry}
                                  expandSelected={expandSelected}/>
-            }
-          </ExpansionPanelDetails>
+            </ExpansionPanelDetails>
+          }
         </ExpansionPanel>
       </div>
     );
