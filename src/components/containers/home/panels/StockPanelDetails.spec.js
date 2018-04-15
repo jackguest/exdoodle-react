@@ -9,7 +9,7 @@ describe('<StockPanelDetails />', () => {
     const store = configureStore();
     const stock = [], symbol = 'test';
 
-    it('Should render a Stock Panel', () => {
+    it('Should render a Stock Details Panel', () => {
         const wrapper = mount(
             <Provider store={store}>
                 <StockPanelDetails stock={stock} symbol={symbol} func='monthlyAdjusted'/>

@@ -29,9 +29,11 @@ export const getNasdaqDetails = (byVal, vals, data) => {
 
 export const getSelectedStockSymbols = (selectedStocks) => {
   let res = [];
-  res = selectedStocks.map((item) => {
-    return item.Symbol
-  });
+  if(selectedStocks) {
+      res = selectedStocks.map((item) => {
+          return item.Symbol
+      });
+  }
   return res;
 };
 

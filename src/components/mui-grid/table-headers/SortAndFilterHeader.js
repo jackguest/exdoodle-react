@@ -26,7 +26,8 @@ class SortAndFilterHeader extends React.Component {
         <TableRow className={classes.nasdaqHeader}>
           <TableCell padding="dense">
           </TableCell>
-          {columnData.map(column => {
+          { columnData &&
+            columnData.map(column => {
             return (
               <TableCell padding="dense" className={classes.nasdaqHeaderText}
                 key={column.id}
