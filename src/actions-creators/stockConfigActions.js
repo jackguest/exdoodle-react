@@ -64,6 +64,8 @@ export function setStockMetaData(stockMetaData, symbol) {
 export function setStockDaily(symbol) {
   return function (dispatch) {
 
+    if(!symbol) return;
+
     dispatch({
       type: types.STOCK_DAILY_LOAD,
       symbol

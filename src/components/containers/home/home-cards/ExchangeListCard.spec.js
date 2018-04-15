@@ -7,9 +7,9 @@ import configureStore from '../../../../store/configureStore';
 describe('<ExchangeListCard />', () => {
 
     const store = configureStore();
-    const nasdaq = [], stockData = {}, classes = {}
+    const nasdaq = [], stockData = {}, classes = {};
 
-    it('Should render homepage', () => {
+    it('Should render ExchangeList Dialog Card', () => {
         const wrapper = mount(
             <Provider store={store}>
                 <ExchangeListCard nasdaq={nasdaq} stockData={stockData} classes={classes}/>

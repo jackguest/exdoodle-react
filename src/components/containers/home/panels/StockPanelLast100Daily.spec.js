@@ -9,7 +9,7 @@ describe('<StockPanelLast100Daily />', () => {
     const store = configureStore();
     const func = 'test';
 
-    it('Should render a Stock Panel', () => {
+    it('Should render a Stock Panel Last 100 Days', () => {
         const wrapper = mount(
             <Provider store={store}>
                 <StockPanelLast100Daily func={func}/>
