@@ -115,7 +115,7 @@ class NasdaqSelectGrid extends React.Component {
               rowCount={data.length}
             />
             <TableBody>
-              {data.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage).map(n => {
+              {data && data.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage).map(n => {
                 const isSelected = this.isSelected(n.id);
                 return (
                   <TableRow className={classes.nasdaqRows}
